@@ -1,0 +1,9 @@
+---
+prometheus:
+  url: "https://moonitoring.oktanium.im/prometheus/"
+  version: 2.7.1
+  ram: 2048
+  cpu: 50
+  port: 9090
+  count: 1
+  retention: 15d
